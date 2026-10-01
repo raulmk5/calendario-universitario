@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendario Universitario//ES
+BEGIN:VEVENT
+SUMMARY:Universitario vs Melgar
+DTSTART;TZID=America/Lima:20261010T190000
+DTEND;TZID=America/Lima:20261010T210000
+UID:2481704@calendario-u
+DESCRIPTION:Partido de Universitario de Deportes
+LOCATION:Estadio Monumental U
+END:VEVENT
+END:VCALENDAR
