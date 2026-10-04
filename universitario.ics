@@ -9,4 +9,12 @@ UID:2481704@calendario-u
 DESCRIPTION:Partido de Universitario de Deportes
 LOCATION:Estadio Monumental U
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alianza Atlético vs Universitario
+DTSTART;TZID=America/Lima:20261018T153000
+DTEND;TZID=America/Lima:20261018T173000
+UID:2481716@calendario-u
+DESCRIPTION:Partido de Universitario de Deportes
+LOCATION:Estadio Campeones del 36
+END:VEVENT
 END:VCALENDAR
