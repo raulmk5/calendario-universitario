@@ -25,4 +25,12 @@ UID:2481722@calendario-u
 DESCRIPTION:Partido de Universitario de Deportes
 LOCATION:Estadio Monumental U
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universitario vs Sport Boys
+DTSTART;TZID=America/Lima:20261028T160000
+DTEND;TZID=America/Lima:20261028T180000
+UID:2481730@calendario-u
+DESCRIPTION:Partido de Universitario de Deportes
+LOCATION:Estadio Monumental U
+END:VEVENT
 END:VCALENDAR
